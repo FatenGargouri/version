@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\gestion_specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\gestion_specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\acceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\acceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\acceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\acceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\gestion_medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\gestion_specialite.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\gestion_specialite.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|d:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_dossier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\gestion_dossier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\acceuil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D39D47C-B814-419F-9F19-96F3BB58FB70}|cabinet\\cabinet.csproj|solutionrelative:cabinet\\acceuil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gestion_specialite.cs [Design]",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs",
+              "RelativeDocumentMoniker": "cabinet\\gestion_specialite.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs [Design]",
+              "RelativeToolTip": "cabinet\\gestion_specialite.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:16:06.335Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu.cs [Design]",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\menu.cs",
+              "RelativeDocumentMoniker": "cabinet\\menu.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\menu.cs [Design]",
+              "RelativeToolTip": "cabinet\\menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:47:17.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\Program.cs",
+              "RelativeDocumentMoniker": "cabinet\\Program.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\Program.cs",
+              "RelativeToolTip": "cabinet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:14:42.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gestion_specialite.cs",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs",
+              "RelativeDocumentMoniker": "cabinet\\gestion_specialite.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.cs",
+              "RelativeToolTip": "cabinet\\gestion_specialite.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAYwJcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:22:22.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "acceuil.cs [Design]",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\acceuil.cs",
+              "RelativeDocumentMoniker": "cabinet\\acceuil.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\acceuil.cs [Design]",
+              "RelativeToolTip": "cabinet\\acceuil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:56:03.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "acceuil.cs",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\acceuil.cs",
+              "RelativeDocumentMoniker": "cabinet\\acceuil.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\acceuil.cs",
+              "RelativeToolTip": "cabinet\\acceuil.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:56:40.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "gestion_specialite.Designer.cs",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.Designer.cs",
+              "RelativeDocumentMoniker": "cabinet\\gestion_specialite.Designer.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.Designer.cs",
+              "RelativeToolTip": "cabinet\\gestion_specialite.Designer.cs",
+              "ViewState": "AQIAAGUCAAAAAAAAAAAjwHICAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:59:32.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gestion_medecin.cs [Design]",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_medecin.cs",
+              "RelativeDocumentMoniker": "cabinet\\gestion_medecin.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_medecin.cs [Design]",
+              "RelativeToolTip": "cabinet\\gestion_medecin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:39:51.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gestion_specialite.resx",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.resx",
+              "RelativeDocumentMoniker": "cabinet\\gestion_specialite.resx",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_specialite.resx",
+              "RelativeToolTip": "cabinet\\gestion_specialite.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-30T22:25:30.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "menu.cs",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\menu.cs",
+              "RelativeDocumentMoniker": "cabinet\\menu.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\menu.cs",
+              "RelativeToolTip": "cabinet\\menu.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:49:25.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gestion_dossier.cs [Design]",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_dossier.cs",
+              "RelativeDocumentMoniker": "cabinet\\gestion_dossier.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\gestion_dossier.cs [Design]",
+              "RelativeToolTip": "cabinet\\gestion_dossier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:01:00.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "acceuil.Designer.cs",
+              "DocumentMoniker": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\acceuil.Designer.cs",
+              "RelativeDocumentMoniker": "cabinet\\acceuil.Designer.cs",
+              "ToolTip": "D:\\sem2\\tp\\.net\\projet42\\cabinet\\cabinet\\acceuil.Designer.cs",
+              "RelativeToolTip": "cabinet\\acceuil.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:57:11.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

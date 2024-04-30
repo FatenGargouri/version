@@ -1,0 +1,12 @@
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\bin\Debug\cabinet.domain.dll.config
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\bin\Debug\cabinet.domain.dll
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\bin\Debug\cabinet.domain.pdb
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\bin\Debug\EntityFramework.dll
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\bin\Debug\EntityFramework.xml
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\obj\Debug\cabinet.domain.csproj.AssemblyReference.cache
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\obj\Debug\cabinet.domain.csproj.CoreCompileInputs.cache
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\obj\Debug\cabinet..0394CBC5.Up2Date
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\obj\Debug\cabinet.domain.dll
+D:\sem2\tp\.net\projet42\cabinet\cabinet.domain\obj\Debug\cabinet.domain.pdb
